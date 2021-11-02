@@ -1,4 +1,5 @@
 def hello_world(name):
     print(f'Hello world {name}')
 
-hello_world('Víctor')
+name = 'Víctor'
+hello_world(name)
